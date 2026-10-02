@@ -1,0 +1,13 @@
+{
+  "pages": 17,
+  "bytes": 4648484,
+  "sha256": "0254311713bf5bf7b719222015dad5ac155ed6fed98bc7faf326076a9220818b",
+  "provenance": "author-provided output example",
+  "translation_rerun_for_release": false,
+  "representative_pages_inspected": [
+    1,
+    2,
+    4
+  ],
+  "license": "CC-BY-4.0"
+}

@@ -2,7 +2,7 @@
 
 **让 Agent 把英文学术论文做成可检索的中文 PDF，并尽量保留原论文的双栏结构、公式、图表与引用。**
 
-[English](README.en.md) · [Skill instructions](SKILL.md) · [Layout guide](references/layout.md) · [Audit schema](references/manifest.md)
+[English](README.en.md) · [skills.sh 页面](https://skills.sh/vittta/translate-paper-zh/translate-paper-zh) · [Skill instructions](SKILL.md) · [Layout guide](references/layout.md) · [Audit schema](references/manifest.md)
 
 面向想认真读论文的研究者：正文、图注、表头、图内标注、脚注和附录都纳入翻译范围。优先使用原论文的 LaTeX 源码和会议模板；只有 PDF 时，由 Agent 规划文本区域或重建版面。最终交付包含可复制、可搜索的中文文字。
 

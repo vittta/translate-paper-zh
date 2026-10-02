@@ -2,7 +2,7 @@
 
 **An Agent Skill for turning full academic papers into searchable Chinese PDFs while preserving their scholarly layout.**
 
-[中文说明](README.md) · [SKILL.md](SKILL.md) · [Layout guide](references/layout.md) · [Audit schema](references/manifest.md)
+[中文说明](README.md) · [skills.sh listing](https://skills.sh/vittta/translate-paper-zh/translate-paper-zh) · [SKILL.md](SKILL.md) · [Layout guide](references/layout.md) · [Audit schema](references/manifest.md)
 
 Translate prose, captions, table headings, figure labels, footnotes and appendices. Prefer the paper's matching LaTeX source and actual conference or journal class. When only a PDF is available, the agent plans explicit text regions or reconstructs the layout, then inspects every output page.
 
